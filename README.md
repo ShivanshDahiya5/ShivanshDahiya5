@@ -56,16 +56,15 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivanshDahiya5&show_icons=true&theme=tokyonight" alt="Shivansh's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDahiya5&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivanshDahiya5&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1.1" alt="Shivansh's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDahiya5&layout=compact&theme=tokyonight&cache_seconds=1800&v=1.1" alt="Top Languages" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShivanshDahiya5&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=ShivanshDahiya5&theme=tokyonight&v=1.1" alt="GitHub Streak" width="98%" />
 </div>
-
 ---
 
 ### 📫 Connect With Me
