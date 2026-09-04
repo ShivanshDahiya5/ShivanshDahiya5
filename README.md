@@ -1,90 +1,269 @@
 <div align="center">
 
-  <!-- Header Banner / Typing effect -->
-  <h1>Hi there, I'm <a href="https://github.com/ShivanshDahiya5">Shivansh Dahiya</a> 👋</h1>
-  <p><strong>Computer Science Student | Full-Stack Web Developer | IoT & Automation Enthusiast</strong></p>
+# 👋 Hi, I'm Shivansh Dahiya
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=500&lines=Building+Full-Stack+Web+Apps...;Exploring+IoT+%26+Arduino+Automation...;Mastering+Data+Structures+%26+Algorithms...;Designing+Intuitive+UI%2FUX+in+Figma..." alt="Typing SVG" />
-  </a>
+### `B.Tech CSE (AI/ML) Student` • `Developer` • `AI/ML Enthusiast`
 
-  <br />
-  <br />
+<img src="https://komarev.com/ghpvc/?username=ShivanshDahiya5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-  <!-- Quick Info Badges -->
-  <a href="https://github.com/ShivanshDahiya5">
-    <img src="https://img.shields.io/github/followers/ShivanshDahiya5?style=for-the-badge&color=0284C7&labelColor=0F172A" alt="Followers" />
-  </a>
-  <a href="https://github.com/ShivanshDahiya5?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ShivanshDahiya5?style=for-the-badge&color=F59E0B&labelColor=0F172A" alt="Stars" />
-  </a>
-</div>
+<br>
 
-<hr />
-
-### ⚡ About Me
-
-- 🎓 **Education**: Studying **Computer Science & Engineering**.
-- 💻 **Core Focus**: Developing modern full-stack web applications using **React, JavaScript, and Tailwind CSS**.
-- 🤖 **Hardware & Automation**: Built **Jarvis Lite**, a localized voice-controlled home automation system using Arduino & Bluetooth.
-- 🧮 **Problem Solving**: Continuously sharpening skills in **Data Structures, Algorithms (C++/Python)**, and time complexity analysis.
-- 🎨 **Design & UI**: Crafting sleek interactive components and user interfaces in **Figma**.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=google-cloud&logoColor=white) |
-| **Tools & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **🤖 [Jarvis-Lite](https://github.com/ShivanshDahiya5/Jarvis-Lite)** | `Arduino` `Bluetooth` `C++` | Localized, offline voice-controlled home automation system designed for private and low-latency appliance control. |
-| **📊 [Report-Card](https://github.com/ShivanshDahiya5/Report-Card)** | `React` `JavaScript` `Tailwind` | Interactive student report card application supporting automated grade analytics, grade distribution, and CSV loading. |
-| **🌤️ [Weather-API](https://github.com/ShivanshDahiya5/Weather-API)** | `JavaScript` `REST API` `CSS3` | Weather forecast application that fetches real-time meteorological data via REST APIs with dynamic UI cards. |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivanshDahiya5&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1.1" alt="Shivansh's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDahiya5&layout=compact&theme=tokyonight&cache_seconds=1800&v=1.1" alt="Top Languages" width="49%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShivanshDahiya5&theme=tokyonight&v=1.1" alt="GitHub Streak" width="98%" />
-</div>
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-  <a href="https://github.com/ShivanshDahiya5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://github.com/ShivanshDahiya5">
+  <img src="https://img.shields.io/github/followers/ShivanshDahiya5?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/ShivanshDahiya5?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
 
 </div>
 
-<br />
+---
+
+## 🖥️ `whoami`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    SHIVANSH@GITHUB                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🎓 Education    : B.Tech CSE (AI/ML)                        │
+│  💻 Role         : Student Developer                         │
+│  🤖 Interests    : AI • ML • Web Development • IoT          │
+│  🚀 Building     : Projects that solve real problems         │
+│  🌱 Learning     : React • JavaScript • AI/ML • DSA          │
+│  ⚡ Philosophy   : Learn → Build → Break → Improve           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Shivansh Dahiya**, a B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
+
+I enjoy building practical projects, experimenting with new technologies, and improving my problem-solving skills through **Data Structures & Algorithms**.
+
+Currently, I'm focused on:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Web Development
+* ⚛️ React & JavaScript
+* 🐍 Python
+* 💻 C++
+* 🗄️ Database Management Systems
+* 🧠 Data Structures & Algorithms
+* 🔌 Arduino & IoT projects
+
+> **"Don't just learn technology. Build something with it."**
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
+</p>
+
+### Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind" />
+</p>
+
+### AI / ML & Data
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,mysql,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
-  <sub><i>"Simplicity is prerequisite for reliability." – Edsger W. Dijkstra</i></sub>
+
+<a href="https://github.com/ShivanshDahiya5/Jarvis-Lite"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivanshDahiya5&repo=Jarvis-Lite&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/ShivanshDahiya5/Weather-API">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivanshDahiya5&repo=Weather-API&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/ShivanshDahiya5/Report-Card">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivanshDahiya5&repo=Report-Card&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🔥 Jarvis Lite
+
+> Voice-Controlled Home Automation System
+
+A smart home automation project that combines **voice commands, Arduino, relays and connected appliances** to create a simple voice-controlled environment.
+
+**Tech:** `Arduino` `C++` `IoT` `Automation`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShivanshDahiya5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDahiya5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShivanshDahiya5&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### 🔄 Automatic Analytics
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    LIVE GITHUB ANALYTICS                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ✓ Commits          → Automatically reflected              │
+│  ✓ Contributions    → Automatically reflected              │
+│  ✓ Repository stats → Automatically updated                 │
+│  ✓ Languages        → Automatically calculated             │
+│  ✓ Streak           → Automatically updated                │
+│                                                             │
+│  No manual editing required.                                │
+│  Keep coding → Commit → Push → GitHub updates the stats.    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+> **Note:** The analytics are generated from GitHub activity. Some third-party statistic cards use caching, so a card may take a little time to show a newly made commit even though the contribution itself has been recorded by GitHub.
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivanshDahiya5/ShivanshDahiya5/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivanshDahiya5/ShivanshDahiya5/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ShivanshDahiya5/ShivanshDahiya5/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 📈 My Coding Activity
+
+```text
+Code is not just about writing lines.
+It's about solving problems.
+
+        ┌───────────────┐
+        │   PROBLEM     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    LEARN      │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     BUILD     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     TEST      │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    IMPROVE    │
+        └───────────────┘
+```
+
+---
+
+# 🎯 Current Goals
+
+* [x] Learn programming fundamentals
+* [x] Build web development projects
+* [x] Work with Git & GitHub
+* [x] Build Arduino/IoT projects
+* [ ] Improve DSA problem solving
+* [ ] Build advanced React applications
+* [ ] Develop AI/ML projects
+* [ ] Contribute to Open Source
+* [ ] Build production-ready applications
+
+---
+
+# 🌱 Currently Learning
+
+```javascript
+const shivansh = {
+    learning: [
+        "Data Structures & Algorithms",
+        "React.js",
+        "JavaScript",
+        "Python",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Database Management Systems"
+    ],
+
+    goal: "Become a better developer by building consistently."
+};
+```
+
+---
+
+# 📚 GitHub Repositories
+
+<div align="center">
+
+<a href="https://github.com/ShivanshDahiya5?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ShivanshDahiya5">
+<img src="https://img.shields.io/badge/GitHub-ShivanshDahiya5-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Keep Coding. Keep Learning. Keep Building. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
+
 </div>
