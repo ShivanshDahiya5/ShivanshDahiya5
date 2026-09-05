@@ -101,19 +101,8 @@ Currently, I'm focused on:
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Shivansh's GitHub Stats" width="100%" />
+  <img src="./github-metrics.svg?v=2" alt="Shivansh's GitHub Stats" width="100%" />
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShivanshDahiya5&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-> **Note:** The analytics are generated from GitHub activity. Some third-party statistic cards use caching, so a card may take a little time to show a newly made commit even though the contribution itself has been recorded by GitHub.
 
 ---
 
