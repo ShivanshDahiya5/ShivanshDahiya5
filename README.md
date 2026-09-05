@@ -1,22 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Shivansh Dahiya
+  <!-- Header Banner / Typing effect -->
+  <h1>Hi there, I'm <a href="https://github.com/ShivanshDahiya5">Shivansh Dahiya</a> 👋</h1>
+  <p><strong>Computer Science Student | Full-Stack Web Developer | IoT & Automation Enthusiast</strong></p>
 
-### `B.Tech CSE (AI/ML) Student` • `Developer` • `AI/ML Enthusiast`
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=500&lines=Building+Full-Stack+Web+Apps...;Exploring+IoT+%26+Arduino+Automation...;Mastering+Data+Structures+%26+Algorithms...;Designing+Intuitive+UI%2FUX+in+Figma..." alt="Typing SVG" />
+  </a>
 
-<img src="https://komarev.com/ghpvc/?username=ShivanshDahiya5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <br />
+  <br />
 
-<br>
-
-<a href="https://github.com/ShivanshDahiya5">
-  <img src="https://img.shields.io/github/followers/ShivanshDahiya5?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/ShivanshDahiya5?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
-
+  <!-- Quick Info Badges -->
+  <a href="https://github.com/ShivanshDahiya5">
+    <img src="https://img.shields.io/github/followers/ShivanshDahiya5?style=for-the-badge&color=0284C7&labelColor=0F172A" alt="Followers" />
+  </a>
+  <a href="https://github.com/ShivanshDahiya5?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ShivanshDahiya5?style=for-the-badge&color=F59E0B&labelColor=0F172A" alt="Stars" />
+  </a>
 </div>
-
 ---
 
 ## 🖥️ `whoami`
@@ -38,25 +40,23 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-I'm **Shivansh Dahiya**, a B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
+I'm Shivansh Dahiya, a B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning.
 
-I enjoy building practical projects, experimenting with new technologies, and improving my problem-solving skills through **Data Structures & Algorithms**.
+I enjoy building practical projects, experimenting with new technologies, and improving my problem-solving skills through Data Structures & Algorithms.
 
 Currently, I'm focused on:
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌐 Web Development
-* ⚛️ React & JavaScript
-* 🐍 Python
-* 💻 C++
-* 🗄️ Database Management Systems
-* 🧠 Data Structures & Algorithms
-* 🔌 Arduino & IoT projects
+• 🤖 Artificial Intelligence & Machine Learning
+• 🌐 Web Development
+• ⚛️ React & JavaScript
+• 🐍 Python
+• 💻 C++
+• 🗄️ Database Management Systems
+• 🧠 Data Structures & Algorithms
 
-> **"Don't just learn technology. Build something with it."**
-
+"Don't just learn technology. Build something with it."
 ---
 
 # 🛠️ Tech Stack
@@ -89,39 +89,19 @@ Currently, I'm focused on:
 
 # 🚀 Featured Projects
 
-<div align="center">
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **🤖 [Jarvis-Lite](https://github.com/ShivanshDahiya5/Jarvis-Lite)** | `Arduino` `Bluetooth` `C++` | Localized, offline voice-controlled home automation system designed for private and low-latency appliance control. |
+| **📊 [Report-Card](https://github.com/ShivanshDahiya5/Report-Card)** | `React` `JavaScript` `Tailwind` | Interactive student report card application supporting automated grade analytics, grade distribution, and CSV loading. |
+| **🌤️ [Weather-API](https://github.com/ShivanshDahiya5/Weather-API)** | `JavaScript` `REST API` `CSS3` | Weather forecast application that fetches real-time meteorological data via REST APIs with dynamic UI cards. |
 
-<a href="https://github.com/ShivanshDahiya5/Jarvis-Lite"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivanshDahiya5&repo=Jarvis-Lite&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/ShivanshDahiya5/Weather-API">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivanshDahiya5&repo=Weather-API&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/ShivanshDahiya5/Report-Card">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivanshDahiya5&repo=Report-Card&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 🔥 Jarvis Lite
-
-> Voice-Controlled Home Automation System
-
-A smart home automation project that combines **voice commands, Arduino, relays and connected appliances** to create a simple voice-controlled environment.
-
-**Tech:** `Arduino` `C++` `IoT` `Automation`
 
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShivanshDahiya5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDahiya5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img src="./github-metrics.svg" alt="Shivansh's GitHub Stats" width="100%" />
 </div>
 
 <br>
@@ -132,24 +112,6 @@ A smart home automation project that combines **voice commands, Arduino, relays 
 
 </div>
 
-### 🔄 Automatic Analytics
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    LIVE GITHUB ANALYTICS                    │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ✓ Commits          → Automatically reflected              │
-│  ✓ Contributions    → Automatically reflected              │
-│  ✓ Repository stats → Automatically updated                 │
-│  ✓ Languages        → Automatically calculated             │
-│  ✓ Streak           → Automatically updated                │
-│                                                             │
-│  No manual editing required.                                │
-│  Keep coding → Commit → Push → GitHub updates the stats.    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 > **Note:** The analytics are generated from GitHub activity. Some third-party statistic cards use caching, so a card may take a little time to show a newly made commit even though the contribution itself has been recorded by GitHub.
 
