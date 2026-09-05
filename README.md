@@ -100,15 +100,26 @@ Currently, I'm focused on:
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="./github-metrics.svg?v=2" alt="Shivansh's GitHub Stats" width="100%" />
+</div> -->
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivanshDahiya5&show_icons=true&theme=tokyonight" alt="Shivansh's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDahiya5&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+</div> -->
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ShivanshDahiya5&theme=tokyonight&border=ffffff&radius=8&timezone=Asia/Kolkata" alt="Shivansh's GitHub Streak" width="100%" />
 </div>
 
----
 
-# 🐍 Contribution Snake
 
-<div align="center">
+ 
+
+<!-- <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivanshDahiya5/ShivanshDahiya5/output/github-contribution-grid-snake-dark.svg">
@@ -116,7 +127,7 @@ Currently, I'm focused on:
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ShivanshDahiya5/ShivanshDahiya5/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+</div> -->
 
 ---
 
