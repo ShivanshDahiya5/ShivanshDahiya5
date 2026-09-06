@@ -112,7 +112,7 @@ Currently, I'm focused on:
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShivanshDahiya5&theme=tokyonight&border=ffffff&radius=8&timezone=Asia/Kolkata" alt="Shivansh's GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=ShivanshDahiya5&theme=tokyonight&border=ffffff&radius=8&timezone=Asia/Kolkata&v=1.1" alt="Shivansh's GitHub Streak" width="100%" />
 </div>
 
 
