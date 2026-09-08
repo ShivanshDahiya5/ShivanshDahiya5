@@ -111,9 +111,9 @@ Currently, I'm focused on:
 
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShivanshDahiya5&theme=tokyonight&border=ffffff&radius=8&timezone=Asia/Kolkata&v=1.1" alt="Shivansh's GitHub Streak" width="100%" />
-</div>
+<a href="https://github.com/ShivanshDahiya5">
+  <img src="https://streak-stats.demolab.com?user=ShivanshDahiya5&theme=neon&hide_border=false&background=0d1117&ring=00FF88&fire=FF00FF&currStreakNum=00FFFF&timezone=Asia/Kolkata" alt="Shivansh's GitHub Streak" width="100%" />
+</a>
 
 
 
