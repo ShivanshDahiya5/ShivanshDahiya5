@@ -112,7 +112,7 @@ Currently, I'm focused on:
 <br />
 
 <a href="https://github.com/ShivanshDahiya5">
-  <img src="https://streak-stats.demolab.com?user=ShivanshDahiya5&theme=neon&hide_border=false&background=0d1117&ring=00FF88&fire=FF00FF&currStreakNum=00FFFF&timezone=Asia/Kolkata" alt="Shivansh's GitHub Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com?user=ShivanshDahiya5&theme=neon&hide_border=false&background=0d1117&ring=00FF88&fire=FF00FF&currStreakNum=00FFFF" />
 </a>
 
 
