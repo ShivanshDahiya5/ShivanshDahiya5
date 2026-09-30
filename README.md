@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / Typing effect -->
-  <h1>Hi there, I'm <a href="https://github.com/ShivanshDahiya5">Shivansh Dahiya</a> 👋</h1>
+  <h1><a href="https://github.com/ShivanshDahiya5">Shivansh Dahiya</a> 👋</h1>
   <p><strong>Computer Science Student | Full-Stack Web Developer | IoT & Automation Enthusiast</strong></p>
 
   <a href="https://git.io/typing-svg">
@@ -48,42 +48,43 @@ I enjoy building practical projects, experimenting with new technologies, and im
 
 Currently, I'm focused on:
 
-• 🤖 Artificial Intelligence & Machine Learning
-• 🌐 Web Development
-• ⚛️ React & JavaScript
-• 🐍 Python
-• 💻 C++
-• 🗄️ Database Management Systems
-• 🧠 Data Structures & Algorithms
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 🌐 **Web Development**
+* ⚛️ **React & JavaScript**
+* 🐍 **Python**
+* 💻 **C++**
+* 🗄️ **Database Management Systems**
+* 🧠 **Data Structures & Algorithms**
 
 "Don't just learn technology. Build something with it."
 ---
 
 # 🛠️ Tech Stack
+<div align="center">
+<h3>Languages</h3>
 
-### Languages
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
 </p>
 
 ### Web Development
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind" />
 </p>
 
 ### AI / ML & Data
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ### Tools & Platforms
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,mysql,figma" />
 </p>
+</div>
 
 ---
 
@@ -91,10 +92,9 @@ Currently, I'm focused on:
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🤖 [Jarvis-Lite](https://github.com/ShivanshDahiya5/Jarvis-Lite)** | `Arduino` `Bluetooth` `C++` | Localized, offline voice-controlled home automation system designed for private and low-latency appliance control. |
-| **📊 [Report-Card](https://github.com/ShivanshDahiya5/Report-Card)** | `React` `JavaScript` `Tailwind` | Interactive student report card application supporting automated grade analytics, grade distribution, and CSV loading. |
-| **🌤️ [Weather-API](https://github.com/ShivanshDahiya5/Weather-API)** | `JavaScript` `REST API` `CSS3` | Weather forecast application that fetches real-time meteorological data via REST APIs with dynamic UI cards. |
-
+| **[LuminaFinder](https://github.com/ShivanshDahiya5/LuminaFinder)** | An interactive search & discovery platform designed for quick exploration, smooth filtering, and an intuitive user interface. | React, JavaScript, Tailwind CSS |
+| **[TypePlus-Pro](https://github.com/ShivanshDahiya5/TypePlus-Pro)** | An enhanced typing test application featuring real-time WPM calculation, accuracy tracking, error metrics, and performance analytics. | React, JavaScript, CSS |
+| **[PixelCraft](https://github.com/ShivanshDahiya5/PixelCraft)** | A responsive web app and UI canvas tool built for dynamic image editing, visual effects, and creative asset design. | React, JavaScript, Tailwind CSS |
 
 ---
 
@@ -110,11 +110,11 @@ Currently, I'm focused on:
 </div> -->
 
 <br />
-
+<div align="center">
 <a href="https://github.com/ShivanshDahiya5">
     <img src="https://streak-stats.demolab.com?user=ShivanshDahiya5&theme=neon&hide_border=false&background=0d1117&ring=00FF88&fire=FF00FF&currStreakNum=00FFFF" />
 </a>
-
+</div>
 
 
  
@@ -134,7 +134,6 @@ Currently, I'm focused on:
 ---
 
 # 📈 My Coding Activity
-
 ```text
 Code is not just about writing lines.
 It's about solving problems.
@@ -166,19 +165,6 @@ It's about solving problems.
 
 ---
 
-# 🎯 Current Goals
-
-* [x] Learn programming fundamentals
-* [x] Build web development projects
-* [x] Work with Git & GitHub
-* [x] Build Arduino/IoT projects
-* [ ] Improve DSA problem solving
-* [ ] Build advanced React applications
-* [ ] Develop AI/ML projects
-* [ ] Contribute to Open Source
-* [ ] Build production-ready applications
-
----
 
 # 🌱 Currently Learning
 
